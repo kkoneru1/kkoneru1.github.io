@@ -1,0 +1,125 @@
+/*
+ *
+ * File:aboutme-style.css
+ * Author: Kaushik, Koneru
+ * Email: konerukaushik@gmail.com
+ *
+ * This CSS Contains Styling of index.html
+ */
+
+body {
+  margin-left: 120px;
+  margin-right: 100px;
+  margin-top: 50px;
+  padding: 20px;
+  background-image: url("background.jpg");
+  background-repeat: repeat-x;
+  font-family: sans-serif;
+}
+
+.container {
+    padding: 20px;
+    background-color: #bccbde; 
+    border: 3px solid;
+    box-shadow: 10px 10px 10px 15px #888888;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 80px;
+    border-bottom-left-radius: 80px;
+    border-bottom-right-radius: 20px;
+}
+
+.name , .info {
+    font-family: Georgia, Arial;
+    font-style: italic;
+    text-align: center;
+    color: #333;
+    font-size: 40px;
+}
+
+.info {
+    color: black;
+    font-family: Georgia;
+    font-size:15px;
+}
+
+.intro {
+     width:100%;
+}
+
+.intro td {
+    width:50%;
+}
+h3{
+
+    color:green;
+}
+
+li {
+    font-family: Verdana;
+    font-style:italic;
+}
+
+.aboutme {
+    font-family: Arial;
+    font-size: 15px;
+    color: blue;
+}
+
+.assign {
+	width: 85%;
+        border: 0;
+	text-align: center;
+	margin-left:auto;
+	margin-right: auto;
+}
+
+.assign tr {
+	padding: 0.50em;
+}
+
+.assign th {
+        font-family: "Courier";
+        font-size: larger;
+}
+
+.assign td {
+	text-align: center;
+	font-family: "Times New Roman", Georgia, Serif;
+	padding: 0.35em;
+}
+
+.assign tr:nth-of-type(odd) {
+	background-color:#ccc;
+}
+
+.assign tr:nth-of-type(even) {
+	background-color:#dddeee;
+}
+h4 {
+    color: darkgreen;
+}
+
+.interest {
+    margin-left: 40px;
+}
+
+.quote {
+    margin: 10px;
+}
+
+mark{
+    background-color: #ccc;
+    font-family: courier;
+}
+
+
+a:hover {
+    color: #333;
+    font-family:sans-serif;
+}
+
+.myimage {
+       width: 20%;
+       height: 200px;
+       margin-left: 40%;
+}
