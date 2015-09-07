@@ -123,3 +123,7 @@ a:hover {
        height: 200px;
        margin-left: 40%;
 }
+
+.dname {
+      color: red;
+}
