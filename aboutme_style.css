@@ -127,3 +127,8 @@ a:hover {
 .dname {
       color: red;
 }
+
+.download {
+    border-bottom:0.2em;
+    margin-bottom:0.2em;
+}
