@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<!-- Author: Kaushik, Koneru
+     Assignment 2
+     Reciepe Assignment -->
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+</title>
+<link rel="stylesheet" type="text/css" href="program1.css"/>
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="heading">
+         <h2> World's Healthiest Food </h2>
+    </div>
+
+</div>
+
+</body>
+
+</html>

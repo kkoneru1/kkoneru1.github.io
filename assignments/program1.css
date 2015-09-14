@@ -1,0 +1,109 @@
+/*
+ * Recipe CSS 
+ *
+ * Author: kaushik koneru
+ * Email: konerukaushik@gmail.com
+ *
+ */
+
+
+body {
+    background-color: #FFCC00;
+    font-family: Georgia, Garamond;
+}
+
+table {
+    margin-top: 20px;
+    background-color: #CC9933;
+}
+
+table, th, td {
+    border-collapse: collapse;
+    border: 2px solid white;
+    padding: 5px;
+}
+
+img {
+    float: left;
+    margin: 0 0 10px 10px;
+    padding-right: 40px;
+}
+
+th {
+    background-color: #003366;
+    color:#FFFFFF;
+}
+
+
+.heading {
+    text-align: center;
+    background-color: #F0F0F0;
+
+}
+
+.heading td {
+    color: #A4A400;
+    font-size: 1.4em;
+    text-align: center;
+}
+
+.heading p {
+    color: #A4A400;
+    font-size: 1.4em;
+    text-align: center;
+}
+
+td {
+    color: #FFFFFF;
+    text-align: left;
+}
+
+
+li {
+    list-style-image:url('img/icon.ico');
+}
+
+.navigator ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.navigator li {
+    float: left;
+    margin: 0.2em;
+    background-color: #0000FF;
+    list-style-image: none;
+}
+
+.navigator li a {
+    background-color: #F0F0F0;
+    text-decoration: none;
+    padding-left: 0.8em;
+    padding-right: 0.8em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+
+}
+
+.header {
+    font-weight: bold;
+}
+
+.weekly img {
+    height: 150px;
+    width: 150px;
+}
+
+.weekly figcaption {
+    text-align: center;
+}
+
+.weekly a {
+    text-decoration:none;
+}
+
+.weekly table {
+    width: 100%;
+}
